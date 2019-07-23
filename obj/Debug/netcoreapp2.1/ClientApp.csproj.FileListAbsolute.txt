@@ -1,0 +1,16 @@
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.deps.json
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.runtimeconfig.json
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.runtimeconfig.dev.json
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.dll
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\bin\Debug\netcoreapp2.1\ClientApp.pdb
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.csprojAssemblyReference.cache
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.RazorAssemblyInfo.cache
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.RazorAssemblyInfo.cs
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.AssemblyInfoInputs.cache
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.AssemblyInfo.cs
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.RazorTargetAssemblyInfo.cache
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.dll
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.pdb
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.Properties.Resources.resources
+C:\Users\RagE-\source\repos\ClientApp\ClientApp\obj\Debug\netcoreapp2.1\ClientApp.csproj.GenerateResource.cache
